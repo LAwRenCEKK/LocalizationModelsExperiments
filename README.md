@@ -1,1 +1,6 @@
 # LocalizationModelsExperiments
+Location based services have been playing crucial roles in our daily life, like navigation, item tracking and assert localization.
+GPS systems have been a dominant provider of location based services in outdoor environments. However, GPS systems do not perform well in doors as its signals are likely to blocked by wall, people and interrupted by other signals.
+In the indoor environment, WiFi Received Signal Strength (RSS) based indoor localization is promising and widely investigated due to the pervasive deployment of WiFi Access Points (APs). 
+This project focus on providing an indoor localization solution through passive data collection, graph-based label propagation and non-parametric machine learning algorithms to overcome the existing challenges in this field. Using the data collected from an crowdsourcing data collection campaign at McMaster university, our findings suggest that the proposed solution can take advantages of the unlabeled data collected passively to boost the localization accuracy of the localization model and reduce the labour cost in collecting the labelled data. Using only limited amount of labeled data, the proposed solution can provide localization services with a 10-meter around discrepancy.
+
